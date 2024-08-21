@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Monsters-Search/static/css/main.4c7943a0.css",
+    "main.js": "/Monsters-Search/static/js/main.ab98fe82.js",
+    "static/js/453.5d3a426d.chunk.js": "/Monsters-Search/static/js/453.5d3a426d.chunk.js",
+    "static/media/logo.svg": "/Monsters-Search/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Monsters-Search/index.html",
+    "main.4c7943a0.css.map": "/Monsters-Search/static/css/main.4c7943a0.css.map",
+    "main.ab98fe82.js.map": "/Monsters-Search/static/js/main.ab98fe82.js.map",
+    "453.5d3a426d.chunk.js.map": "/Monsters-Search/static/js/453.5d3a426d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c7943a0.css",
+    "static/js/main.ab98fe82.js"
+  ]
+}
